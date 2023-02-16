@@ -36,16 +36,17 @@
 
 2. 打开USB调试
 
-   在 `开发人员选项` 打开 `USB调试`，USB连接手机
-   ![USB调试](static/image/1.jpg)
+在 `开发人员选项` 打开 `USB调试`，USB连接手机
+
+![USB调试](static/image/1.jpg)
 
 3. 安装好`ADB` ，并配置环境变量。
 
-   [Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
-   [Mac OS](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip)
-   [Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip)
+[Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
+[Mac OS](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip)
+[Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip)
 
-   在任何路径下打开命令行，键入 `ADB` 有反馈。
+在任何路径下打开命令行，键入 `ADB` 有反馈。
 
 <a name="opensource"></a>
 
